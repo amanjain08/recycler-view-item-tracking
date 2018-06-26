@@ -1,7 +1,6 @@
 # recycler-view-item-tracking
 
-Problem Statement:
-Use RxJava to implement tracking for visible items in a RecyclerView.
+**Problem Statement: Use RxJava to implement tracking for visible items in a RecyclerView.**
 
 Display a RecyclerView with enough items so that it is scrollable to 3 pages. Whenever a RV item
 is visible to user (even partially) for 300ms, log its position to logcat.
