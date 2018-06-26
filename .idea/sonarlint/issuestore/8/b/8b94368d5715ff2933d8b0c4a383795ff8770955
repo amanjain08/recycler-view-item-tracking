@@ -1,0 +1,6 @@
+
+ksquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ8ùÔİÃ,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Èüª«8ùÔİÃ,
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8ùÔİÃ,
+„squid:S1488"hImmediately return this expression instead of assigning it to the temporary variable "profileModelList".(µ¢Šå8ùÔİÃ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õê¦·8ùÔİÃ,
